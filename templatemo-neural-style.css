@@ -940,7 +940,7 @@ https://templatemo.com/tm-597-neural-glass
      line-height: 1.7;
      font-size: 1rem;
 }
-/* Section 5: Contact */
+/* Section 5: Contact 
  .contact {
      padding: 150px 0;
      position: relative;
@@ -969,6 +969,7 @@ https://templatemo.com/tm-597-neural-glass
      animation: pulse 4s ease-in-out infinite;
      z-index: -1;
 }
+         */
  @keyframes pulse {
      0%, 100% {
          transform: scale(1);
